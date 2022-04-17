@@ -1,6 +1,6 @@
 # linux-behringer error 
 
-I buy a behringer UMC204HD and it wad driving me crazy... !!!
+I buy a behringer UMC204HD and it was driving me crazy... !!!
 
 OS :  Archlinux - 5.17.2-arch3-1
 
