@@ -44,4 +44,4 @@ Plug the USB interface and test
 
 /etc/modprobe.d/UMC204HD.conf
 
-snd_usb_audio implicit_fb=1
+options snd_usb_audio implicit_fb=1
