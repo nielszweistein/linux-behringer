@@ -1,3 +1,7 @@
+https://bugzilla.kernel.org/show_bug.cgi?id=215934
+
+
+
 # linux-behringer error audio stuttering (not xruns)
 I buy a behringer UMC204HD and it was driving me crazy..
 
