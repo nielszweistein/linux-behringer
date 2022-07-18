@@ -1,5 +1,8 @@
 https://bugzilla.kernel.org/show_bug.cgi?id=215934
 
+commit kernel tree --> ae8b163
+https://github.com/torvalds/linux/commit/ae8b1631561a3634cc09d0c62bbdd938eade05ec
+Takashi Iwai <tiwai@suse.de>
 
 
 # linux-behringer error audio stuttering (not xruns)
